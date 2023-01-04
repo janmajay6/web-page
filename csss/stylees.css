@@ -1,0 +1,124 @@
+body{
+  background-color:#101820FF;
+margin: 0;
+text-align: center;
+}
+h1{
+  margin-top:0;
+  color: #F2AA4CFF;
+  font-family: 'Merriweather', serif;
+  font-size: 4rem;
+}
+
+h2{
+  font-family: 'Merriweather', serif;
+
+  color:#F2AA4CFF;
+}
+h3{
+  color:#E94B3CFF;
+}
+p{
+  color: white;
+  font-family: 'Merriweather', serif;
+
+}
+.top-cointainer{
+
+position: relative;
+padding-top: 70px;
+
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left: 250px;
+}
+.skill2{
+  width: 10rem;
+  margin: auto 20px auto auto;
+float:left;
+
+}
+
+.skill1{
+  width: 10rem;
+margin: 0 20px 45px auto;
+float: left;
+
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.btn {
+  background: #ffdd00;
+  background-image: -webkit-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: -moz-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: -ms-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: -o-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: linear-gradient(to bottom, #ffdd00, #fbb034);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+    font-family: 'Merriweather', serif;
+  color: WHITE;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background: #ffff05;
+background-image: -webkit-linear-gradient(top, #ffff05, #f75959);
+background-image: -moz-linear-gradient(top, #ffff05, #f75959);
+background-image: -ms-linear-gradient(top, #ffff05, #f75959);
+background-image: -o-linear-gradient(top, #ffff05, #f75959);
+background-image: linear-gradient(to bottom, #ffff05, #f75959);
+text-decoration: none;
+}
+.bottom-container{
+
+  margin-bottom: 0;
+  position:relative;
+  top: 25px;
+
+  background-color: #0a6b5c;
+}
+.footer-link1{
+  color: white;
+  margin-right: 20px;
+}
+.footer-link2{
+  color: white;
+}
+.contact-me{
+  background-color: #0a6b5c;
+  margin-bottom: 0;
+  padding: 0;
+  position: relative;
+
+}
+.foot{
+
+  color: white;
+}
+.last{
+  color: white;
+
+}
+.trademark{
+  color: white;
+  font-size: 0.75rem;
+  padding-bottom: 10px;
+}
+.profile{
+  line-height: 5px;
+}
